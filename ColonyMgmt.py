@@ -55,6 +55,9 @@ def importCleanDF(fn, sep = "\t",
 
     df.Cage = df.Cage.fillna('not included yet') #if animals are missing a cage
     print("Animals without cage given temp. cage") #if animals are not gendered
+
+    df.Lineage = df.Lineage.fillna('NA') #if animals are missing a cage
+    print("Animals without specified lineage given NA") #if animals are not gendered
     df = parsePlate(df)
     df = parseDOD(df, drop = dropDeads)
     if dropTransfers:
@@ -108,6 +111,7 @@ def collectAgeRange(df,
     late = pd.to_datetime(on_date) - pd.Timedelta(weeks = youngest_requested_age)
     mask = (df['DOB'] >= early)            & (df['DOB'] <= late)            & (df['Lineage'].str.contains(lineage))            & (df['Sex'].str.contains(gender))
     return early, late, mask
+    
 def colonyStats(df):
     '''helper function: returns number of mice, number of cages'''
     num_cages = len(df.Cage.unique())
@@ -115,9 +119,11 @@ def colonyStats(df):
     if num_cages >=200:
         print("certainly cage reorg time")
     return stats
+
 def makefn(string):
     '''returns string + formatted date to use as a file name'''
     return string + str(dt.today().strftime("_%Y-%B-%d")) + ".csv"
+
 def tagSearch(string, df, column="Tag"):
     '''from a string, extracts all numbers and then searches for those numbers in a column'''
     find_t = re.findall(r'\d+', string)
@@ -132,9 +138,7 @@ def tagSearch(string, df, column="Tag"):
 #                                     'Color':'unique',
 #                                    'DOD':'unique'})   #yay!
 #     return fineGrainedDispense, cages
-def calcTotals(df):
-    counted = df.groupby("Cage").agg('size').reset_index(name='Total')
-    return df.merge(counted)
+
 def calcDisp(df):
     marks = df.groupby("Cage").DOD.value_counts(normalize=False,
                               dropna = False).unstack()
@@ -196,15 +200,17 @@ def consolidationFrames(df):
     femaleSpecific = grp.rename({'Cage': 'Grp Size'}, axis=1).reset_index()
     return {'AllCages': allCages,'FemaleCons': femaleSpecific}
 
-def makeConsolidations(df):
+def makeConsolidations(df, save = True, popBack = False):
     '''wrapper to save both frames automatically to csv with appropriate filenames '''
     try:
         frames =  consolidationFrames(df)
-        for frame in frames:
-            fn = makefn(frame)
-            frames[frame].to_csv(fn, sep = "\t")
-            print("Saved CSV with fns {}".format(fn))
-        print("returning {} frames".format(len(frames)))
-        return frames
+        if save:
+            for frame in frames:
+                fn = makefn(frame)
+                frames[frame].to_csv(fn, sep = "\t")
+                print("Saved CSV with fns {}".format(fn))
+        if popBack:
+            print("returning {} frames".format(len(frames)))
+            return frames
     except:
         print("error")
