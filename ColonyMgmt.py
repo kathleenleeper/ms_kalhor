@@ -6,7 +6,7 @@ from datetime import datetime as dt
 import logging as log
 import re
 import os
-
+import glob
 # to do items
 # add logging function; if colony is over 200, prioritize saccing and consolidating cages
 
@@ -111,7 +111,7 @@ def collectAgeRange(df,
     late = pd.to_datetime(on_date) - pd.Timedelta(weeks = youngest_requested_age)
     mask = (df['DOB'] >= early)            & (df['DOB'] <= late)            & (df['Lineage'].str.contains(lineage))            & (df['Sex'].str.contains(gender))
     return early, late, mask
-    
+
 def colonyStats(df):
     '''helper function: returns number of mice, number of cages'''
     num_cages = len(df.Cage.unique())
@@ -207,7 +207,7 @@ def makeConsolidations(df, save = True, popBack = False):
         if save:
             for frame in frames:
                 fn = makefn(frame)
-                frames[frame].to_csv(fn, sep = "\t")
+                frames[frame].to_csv(fn, sep = "\t", index = True)
                 print("Saved CSV with fns {}".format(fn))
         if popBack:
             print("returning {} frames".format(len(frames)))

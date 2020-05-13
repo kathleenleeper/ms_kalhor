@@ -1,0 +1,436 @@
+Tag	Cage	Ear	Sex	Color	Name	Genotype	DOB	DOD	Father	Mother	Lineage	GenotypingLibrary	Plate	Notes
+2463	HOP0017	++/t	M	Agouti		15	2019-07-07	03/17/20	2121	1997	1685ins21#2		Plate T841500-A09	
+2620	HOP0019	+/+t	M	Agouti		4E,8I,4S,NAina	2019-07-30	03/17/20	1978	2129	1685ins21#2		Plate T885764-A07	
+2616	HOP0020	++/t	M	Agouti		4E,7I,3S,NAina	2019-07-30	11/23/19	2123	2115	1685ins21#2		Plate T885764-A02	
+2632	HOP0019	++/t	F	Agouti		4E,8I,4S,NAina	2019-08-01	03/17/20	2121	1997	1685ins21#2		Plate T885764-B07	
+2633	HOP0017	+/+t	F	Agouti		2E,8I,4S,NAina	2019-08-01	03/17/20	2121	1997	1685ins21#2		Plate T885764-B08	
+2622	HOP0017	-/++t	F	Agouti		4E,6I,2S,NAina	2019-07-30	03/17/20	1978	2129	1685ins21#2		Plate T885764-A09	
+2623	HOP0019	++/t	F	Agouti		4E,7I,2S,NAina	2019-07-30	03/17/20	1978	2129	1685ins21#2		Plate T885764-A10	190917: breeding with t2401; 191016: separated for shipment to Hopkins and on watch until 10/30
+2625	HOP0017	t/++	F	Agouti		4E,8I,3S,NAina	2019-07-30	03/17/20	1978	2129	1685ins21#2		Plate T885764-A12	
+2626	HOP0019	t++/-	F	Agouti		4E,6I,3S,NAina	2019-07-30	03/17/20	1978	2129	1685ins21#2		Plate T885764-B01	
+														
+2324	HOP0027-A	-/++t	F	Agouti		3E,10I,5S,9ina	2019-05-17	03/17/20	1713	1755	1763PB#3	KL11		
+2325	HOP0014	++/t	F	Agouti		4E,12I,4S,10ina	2019-05-17	dispensible	1713	1755	1763PB#3	KL11		
+2327	HOP0002	t/++	F	Black		4E,11I,3S,11ina	2019-05-17	03/17/20	1713	1755	1763PB#3	KL11		
+2639	HOP0011-B	-/++t	F	Agouti		3E,10I,6S,15ina	2019-08-05	breeding, euth post	2154	2142	1763PB#3		T885773-A06	
+2703	HOP0004	-/++t	F	Agouti		3E,12I,5S,11ina	2019-08-19	dispensible	2168	2251	1763PB#3		T885760-D05	
+2610	HOP0011-A	-/++t	F	Agouti		4E,10I,5S,11ina	2019-07-31	breeding, euth post	2147	t2150	1763PB#3		T885772-H08	
+2611	HOP0005	++/t	F	Agouti		2E,12I,5S,6ina	2019-07-31	03/17/20	2147	t2150	1763PB#3		T885772-H09	
+2612	HOP0005	+/+t	F	Agouti		4E,11I,4S,12ina	2019-07-31	03/17/20	2147	t2150	1763PB#3		T885772-H10	
+2613	HOP0011-B	t/++	F	Black		3E,10I,5S,8ina	2019-07-31	breeding, euth post	2147	t2150	1763PB#3		T885772-H11	
+2614	HOP0005	t++/-	F	Black		4E,13I,4S,9ina	2019-07-31	breeding - xCas9 M, experimental	2147	t2150	1763PB#3		T885772-H12	
+2641	HOP0012	+/+t	F	Black		4E,11I,5S,11ina	2019-08-05	03/17/20	2154	2142	1763PB#3		T885773-A08	
+2642	HOP0014	t/++	F	Black		4E,13I,5S,10ina	2019-08-05	dispensible	2154	2142	1763PB#3		T885773-A09	
+2644	HOP0012	-/++t	F	Agouti		4E,13I,5S,12ina	2019-08-03	breeding - xCas9 M, experimental	2168	2207	1763PB#3		T885773-A12	
+2645	HOP0011-A	++/t	F	Agouti		4E,12I,5S,10ina	2019-08-03	breeding, euth post	2168	2207	1763PB#3		T885773-B01	
+2646	HOP0027-A	+/+t	F	Black		4E,11I,5S,11ina	2019-08-03	03/17/20	2168	2207	1763PB#3		T885773-B02	
+2693	HOP0011-A	++/t	M	Agouti		4E,12I,4S,10ina		03/17/20	2168	2251	1763PB#3		Plate T885760-C06	
+2694	HOP0011-B	+/+t	M	Agouti		4E,12I,4S,11ina	2019-08-19	03/17/20	2168	2251	1763PB#3		Plate T885760-C07	
+2681	HOP0012	++/t	M	Agouti		4E,12I,5S,8ina	2019-08-24	03/17/20	2168	2207	1763PB#3		Plate T885760-B06	
+2682	sep for trans	+/+t	M	Black		3E,12I,6S,9ina	2019-08-24	transferred to Bergles Lab	2168	2207	1763PB#3		Plate T885760-B07	
+2684	sep for trans	-/++t	M	Agouti		3E,12I,7S,10ina	2019-08-24	transferred to Zack Lab	2147	2150	1763PB#3		Plate T885760-B09	
+2643	HOP0014	-/++t	M	Agouti		4E,13I,6S,12ina	2019-08-03	dispensible	2168	2207	1763PB#3		T885773-A11	
+2685	HOP0015	-/++t	M	Agouti		4E,11I,6S,11ina	2019-08-24	03/17/20	2147	2150	1763PB#3		Plate T885760-B10	
+2720	sep for trans	+/+t	M	Agouti		4E,11I,6S,12ina	2019-08-27	transferred to Zack Lab	2154	2142	1763PB#3	KL17, 191022		
+2721	HOP0027-A	t/++	M	Agouti		4E,12I,5S,10ina	2019-08-27	03/17/20	2154	2142	1763PB#3	KL17, 191022		
+2722	HOP0027	-/t++	M	Agouti		4E,7I,6S,12ina	2019-08-27	03/17/20	2154	2142	1763PB#3	KL17, 191022		
+														
+2418	HOP0028-B	++/t	F	Black		5E,8I,18S,9ina	2019-06-13	breeding, euth post 	2134	2101	1763PB#7	KL15		
+2421	HOP0028-B	t++/-	F	Black		5E,7I,17S,7ina	2019-06-13	breeding, euth post 	2134	2101	1763PB#7	KL15		
+2444	HOP0001	-/++t	F	Agouti		3E,5I,14S,10ina	2019-06-26	breeding - xCas9 M, experimental	2134	2100	1763PB#7	KL15		
+2499	HOP0001	++/t	F	Agouti		2E,4I,12S,4ina	2019-07-02	breeding - xCas9 M, experimental	2164	CD1	1763PB#7		T885761-A12	
+2417	HOP0003	-/++t	F	Agouti		5E,8I,19S,10ina	2019-06-13	03/17/20	2134	2101	1763PB#7	KL15		190917: breeding with t2401; 191016: separated for shipment to Hopkins and on watch until 10/30
+2401	HOP0003	+/+t	M	Albino		5E,10I,20S,10ina	2019-05-28	breeding - xCas9 F, experimental	1732	1960	1763PB#7	KL15		
+2410	HOP0008	-/++t	F	Black		4E,6I,14S,11ina	2019-06-16	breeding, euth post	2134	1944	1763PB#7	KL15		
+2411	HOP0004	++/t	F	Black		3E,7I,17S,10ina	2019-06-16	breeding - xCas9 M, experimental	2134	1944	1763PB#7	KL15		
+2412	HOP0008	+/+t	F	Black		4E,8I,12S,6ina	2019-06-16	breeding, post	2134	1944	1763PB#7	KL15		
+2606	HOP0013-A	+/+t	F	Agouti		4E,9I,21S,12ina	2019-07-30	03/17/20	1942	1907	1763PB#7		T885772-H04	
+2649	HOP0013-A	-/++t	F	Agouti		5E,7I,18S,10ina	2019-08-03	03/17/20	2164	2166	1763PB#7		T885773-B05	
+2650	HOP0028-A	++/t	F	Agouti		5E,5I,17S,6ina	2019-08-03	breeding, euth post	2164	2166	1763PB#7		T885773-B06	
+2651	HOP0006	+/+t	F	Agouti		4E,4I,18S,8ina	2019-08-03	dispensible	2164	2166	1763PB#7		T885773-B07	
+2652	HOP0028-A	t/++	F	Black		5E,7I,18S,8ina	2019-08-03	breeding, euth post	2164	2166	1763PB#7		T885773-B08	
+2265	HOP0008	+/+t	M	Agouti		5E,8I,14S,9ina	2019-05-02	03/17/20	1735	1937	1763PB#7	KL11*		
+2583	sep for trans	-/++t	M	Agouti		5E,7I,17S,10ina	2019-07-18	transferred to Zack Lab	2134	2100	1763PB#7		T885772-F10	
+2603	sep for trans	-/++t	M	Agouti		4E,9I,18S,11ina	2019-07-30	transferred to Zack Lab	1942	1907	1763PB#7		T885772-H01	
+2568	HOP0013	-/++t	M	Ag		4E,9I,17S,10ina	2019-07-09	03/17/20	2134	2101	1763PB#7		T885772-E05	
+2569	HOP0013-A	++/t	M	Ag		4E,10I,14S,11ina	2019-07-09	03/17/20	2134	2101	1763PB#7		T885772-E06	
+2570	sep for trans	+/+t	M	Alb		5E,6I,15S,9ina	2019-07-09	transferred to Bergles Lab	2134	2101	1763PB#7		T885772-E07	
+2415	HOP0003	t/++	F	Agouti		5E,10I,16S,13ina	2019-06-13	03/17/20	2134	2101	1763PB#7	KL15		190917: breeding with t2235; 191016: separated for shipment to Hopkins and on watch; 191017: pups, not shipped to Hopkins; 191106: weaned for shipment
+2750	HOP0028-A	-/++t	M	Agouti		4E,10I,23S,10ina	2019-10-01	03/17/20	2235	2046	1763PB#7	KL17, 191022		
+2751	HOP0028-B	++/t	M	Agouti		5E,9I,13S,13ina	2019-10-01	breeding - xCas9 F, experimental	2235	2046	1763PB#7	KL17, 191022		
+														
+2437	HOP0016-A	+/+t	M	Agouti		5	2019-06-14	03/17/20	2013	2010	1853PBF#1	KL15		
+2438	HOP0016-B	t/++	M	Black		5	2019-06-14	03/17/20	2013	2010	1853PBF#1	KL15		
+2735	HOP0022-A	-/++t	M	Agouti		4	2019-09-26	03/17/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2736	HOP0022	++/t	M	Agouti		4	2019-09-26	03/17/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2737	HOP0022	+/+t	M	Agouti		4	2019-09-26	03/17/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2740	HOP0024	-/++t	F	Agouti		4	2019-09-26	03/17/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2741	HOP0016-B	++/t	F	Agouti		5	2019-09-26	03/24/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2742	HOP0022-A	+/+t	F	Agouti		5	2019-09-26	03/17/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2743	HOP0016-B	t/++	F	Agouti		4	2019-09-26	03/24/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2744	HOP0022-A	t++/-	F	Agouti		4	2019-09-26	03/17/20	2103	2348 or 2351	1853PBF#1	KL17, 191022		
+2448	HOP0016-A	+/+t	F	Black		5	2019-06-22	03/17/20	2005	2017	1853PBF#1	KL15		
+														
+2542	HOP0018-A	t/++	M	Black		fCas9 (+/+), hCD2 (+)	2019-07-19	03/17/20	c1009#1	2384	fCas9 x hCD2		T885765-E02	
+2543	HOP0018	t++/-	M	Black		fCas9 (+/+), hCD2 (+)	2019-07-19	03/17/20	c1009#1	2384	fCas9 x hCD2		T885765-E03	
+2726	HOP0021-B	-/++t	M	Black		fCas9 (+/+), hCD2 (-/-)	2019-09-20	03/17/20	c0995#1	2359	fCas9 x hCD2			
+2727	HOP0021-A	++/t	M	Black		fCas9 (+/-), hCD2 (+)	2019-09-20	03/17/20	c0995#1	2359	fCas9 x hCD2			
+2728	HOP0021-C	+/+t	M	Black		fCas9 (+/+), hCD2 (-/-)	2019-09-20	03/17/20	c0995#1	2359	fCas9 x hCD2			
+2729	HOP0021	t/++	M	Black		fCas9 (+/-), hCD2 (+)	2019-09-20	03/17/20	c0995#1	2359	fCas9 x hCD2			
+2535	HOP0018-A	-/++t	F	Black		fCas9 (+/+), hCD2 (+)	2019-07-13	03/17/20	c1009#1	1773	fCas9 x hCD2		T885765-A02	190917: breeding with t2235; 191016: separated for shipment to Hopkins and on watch; 191017: pups; 191106: weaned for shipment
+2547	HOP0021-A	t/++	F	Black		fCas9 (+/+), hCD2 (+)	2019-07-19		c1009#1	2384	fCas9 x hCD2		T885765-E07	
+2731	HOP0018-A	++/t	F	Black		fCas9 (+/+), hCD2 (+)	2019-09-20	f.d. 2020-02-14	c0995#1	2359	fCas9 x hCD2			
+2732	HOP0021-A	+/+t	F	Black		fCas9 (+/+), hCD2 (+)	2019-09-20	03/17/20	c0995#1	2359	fCas9 x hCD2			
+2712	HOP0021-B	+/+t	F	Black		fCas9 (+/+), synCre (+)	2019-08-22	03/17/20	c1009#1	2362	fCas9 x synCre		T885765-B03	
+2713	HOP0021-C	t/++	F	Black		fCas9 MT (+/+), synCre (+)	2019-08-22		c1009#1	2362	fCas9 x synCre		T885765-B04	
+2537	HOP0021-B	-/++t	F	Black		fCas9 MT (+/-), synCre(+)	2019-07-15	03/17/20	1451	1669	fCas9 x synCre		T885765-A04	
+														
+2661	NRB1095	-/ot	F	Black	J024858-Cas9	J024858-Cas9	2019-08-16	Dispensible, check for pregnancies and euthanize if not	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2662	NRB1073-A	-/ot	F	Gray	J024858-Cas9	J024858-Cas9	2019-08-16	Dispensible, check for pregnancies and euthanize if not	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2663	NRB1073-B	-/ot	F	Gray	J024858-Cas9	J024858-Cas9	2019-08-16	Dispensible, check for pregnancies and euthanize if not	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2664	NRB1095	-/ot	F	Gray	J024858-Cas9	J024858-Cas9	2019-08-16	Dispensible, check for pregnancies and euthanize if not	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2548	NRB1073-A	-/ot	M	Black	J024858-Cas9	J024858-Cas9	2019-07-16	Dispensible	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2549	NRB1073-B	-/ot	M	Black	J024858-Cas9	J024858-Cas9	2019-07-16	Dispensible	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2550	NRB1073	-/ot	M	Black	J024858-Cas9	J024858-Cas9	2019-07-16	Dispensible	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2597	NRB1073	-/ot	M	Gray	J024858-Cas9	J024858-Cas9	2019-07-16	Dispensible	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+2598	NRB1073	-/ot	M	Gray	J024858-Cas9	J024858-Cas9	2019-07-16	Dispensible	2065	2131	J024858-Cas9			20191211: arrived Hopkins, in quarantine
+														
+2615	NRB1081	-/++t	M	Agouti		11	7/30/2019	03/17/20	2123	2115	1685ins21#2		Plate T885764-A01	
+2617	NRB1081	+/+t	M	Agouti		12	7/30/2019	01/03/19	2123	2115	1685ins21#2		Plate T885764-A03	20200103: euthanized for fighting
+2618	NRB1081	t/++	M	Agouti			7/30/2019	01/20/20	2123	2115	1685ins21#2		Plate T885764-A04	20200120: found dead
+2619	NRB1081	t++/-	M	Agouti		4E,6I,3S,NAina	7/30/2019	01/03/19	2123	2115	1685ins21#2		Plate T885764-A05	20200103: euthanized for fighting
+														
+	NRB0861	-/++	M	Agouti	861#1	experimental	1/11/2019	transferred to Abadir lab	1299	1201 (cas9)	1763PB#7 (experimental)			190425: 200 ul blood drawn; 190509: 100-200 uL blood drawn; 200205: in Hopkins quarantine in "NRB1079", but mice had no tags and matched the notch patterns of NRB0861
+	NRB0861	++/-	M	Agouti	861#2	experimental	1/11/2019	transferred to Abadir lab	1299	1201 (cas9)	1763PB#7 (experimental)			200205: in Hopkins quarantine in "NRB1079", but mice had no tags and matched the notch patterns of NRB0861
+	NRB0861	`+/+	M	Agouti	861#3	experimental	1/11/2019	transferred to Abadir lab	1299	1201 (cas9)	1763PB#7 (experimental)			190425: 200 ul blood drawn; 190509: 100-200 uL blood drawn; 200205: in Hopkins quarantine in "NRB1079", but mice had no tags and matched the notch patterns of NRB0861
+	NRB0861	++/+	M	Agouti	861#4	experimental	1/11/2019	transferred to Abadir lab	1299	1201 (cas9)	1763PB#7 (experimental)			190425: 200 ul blood drawn; 190509: 100-200 uL blood drawn; 200205: in Hopkins quarantine in "NRB1079", but mice had no tags and matched the notch patterns of NRB0861
+	NRB0862	-/++	F	Agouti	862#1	experimental	1/11/2019	transferred to Ewald lab	1299	1201 (cas9)	1763PB#7 (experimental)			190425: 200 ul blood drawn; 190509: 100-200 uL blood drawn; 200219: dissected for mammary glands by JW in Ewald lab
+	NRB0862	++/-	F	Agouti	862#2	experimental	1/11/2019	transferred to Ewald lab	1299	1201 (cas9)	1763PB#7 (experimental)			190208: gender questionable; 190213: female confirmed; 190425: 200 ul blood drawn, 190509: 100-200 uL blood drawn
+	NRB0862	+++/-	F	Black	899#5	experimental	3/1/2019	transferred to Ewald lab	1475	1201 (cas9)	1763PB#3 (experimental)			190425: 200 ul blood drawn; 190509: 100-200 uL blood drawn
+	NRB1112	-/++	M	Agouti	1112#1	experimental	9/2/2019	transferred to Abadir lab	2137	2071	barcoded ins			
+	NRB1112	++/-	M	Agouti	1112#2	experimental	9/2/2019	transferred to Abadir lab	2137	2071	barcoded ins			
+	NRB1112	+/+	M	Agouti	1112#3	experimental	9/2/2019	transferred to Abadir lab	2137	2071	barcoded ins			
+														
+														
+5001	AA0001	+/t	M			3E,5I,13S,12ina	12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-A01	
+5002	AA0001	++/t	M				12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-B01	
+5003	AA0001	t/+	M			5E,5I,13S,16ina	12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-C01	
+5004	AA0002	+/t	M			5E,7I,14S,10ina	12/31/2019	Breeder-May20	2751	2418/2421	1763PB#7		T962919-D01	
+5005	AA0002	++/t	M			5E,8I,12S,11ina	12/31/2019	Breeder-May20	2751	2418/2421	1763PB#7		T962919-E01	
+5006	AA0002	t/+	M			4E,6I,12S,13ina	12/31/2019	dispensible	2751	2418/2421	1763PB#7		T962919-F01	
+5007	AA0002	t/++	M			5E,6I,12S,13ina	12/31/2019	dispensible	2751	2418/2421	1763PB#7		T962919-G01	
+5008	AA0003	notch-5	F			4E,7I,10S,12ina	12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-H01	
+5009	AA0003	+/t	F			4E,6I,11S,13ina	12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-A02	
+5010	AA0003	++/t	F				12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-B02	
+5011	AA0003	t/+	F			4E,6I,11S,10ina	12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-C02	
+5012	AA0003	t/++	F			5E,6I,12S,12ina	12/31/2019	05/07/20	2751	2418/2421	1763PB#7		T962919-D02	
+5013	AA0004	+/t	F			4E,6I,14S,10ina	12/31/2019	Dispensible	2751	2418/2421	1763PB#7		T962919-E02	
+5014	AA0004	++/t	F			5E,7I,11S,9ina	12/31/2019	Breeder-May20	2751	2418/2421	1763PB#7		T962919-F02	
+5015	AA0004	t/+	F				12/31/2019	Dispensible	2751	2418/2421	1763PB#7		T962919-G02	
+5016	AA0004	t/++	F				12/31/2019	Dispensible	2751	2418/2421	1763PB#7		T962919-H02	
+5017	AA0004	notch-5	F				12/31/2019	Dispensible	2751	2418/2421	1763PB#7		T962919-A03	
+5018	AA0005	+/t	M				12/31/2019	05/07/20	2401	2417/2415	1763PB#7		T962919-B03	
+5019	AA0005	++/t	M				12/31/2019	05/07/20	2401	2417/2415	1763PB#7		T962919-C03	
+5020	AA0005	t/+	M				12/31/2019	05/07/20	2401	2417/2415	1763PB#7		T962919-D03	
+5021	AA0005	t/++	M				12/31/2019	05/07/20	2401	2417/2415	1763PB#7		T962919-E03	
+5022	AA0006	+/t	F				12/31/2019	05/07/20	2401	2417/2415	1763PB#7		T962919-F03	
+5023	AA0006	++/t	F				12/31/2019	05/07/20	2401	2417/2415	1763PB#7		T962919-G03	
+5024	AA0006	t/+	F				12/31/2019	05/07/20	2401	2417/2415	1763PB#7		T962919-H03	
+														
+5025	AA0007	+/t	M			fCas9 MT (+/-), synCre (+)	1/1/2020	05/07/20	2728	2713	fCas9 x synCre		T962919-B04	
+5026	AA0007	++/t	M			fCas9 MT (+/+), synCre (+)	1/1/2020	05/07/20	2728	2713	fCas9 x synCre		T962919-C04	
+5027	AA0007	t/+	M			fCas9 MT (+/+), synCre (+)	1/1/2020	05/07/20	2728	2713	fCas9 x synCre		T962919-D04	
+5028	AA0033	+/t	F	black		fCas9 MT (+/+), synCre (+)	1/1/2020		2728	2713	fCas9 x synCre		T962919-E04	
+5029	AA0033	++/t	F	black		fCas9 MT (+/+), synCre (-)	1/1/2020	Dispensible	2728	2713	fCas9 x synCre		T962919-F04	
+5030	AA0009	+/t	M			fCas9 MT (+/-), hCD2 (-)	12/31/2019	05/07/20	2727	2732/2547	fCas9 x hCD2		T962919-G04	
+5031	AA0009	++/t	M			fCas9 MT (-/-), hCD2 (-)	12/31/2019	05/07/20	2727	2732/2547	fCas9 x hCD2		T962919-H04	
+5032	AA0009	t/+	M			fCas9 MT (+/-), hCD2 (-)	12/31/2019	05/07/20	2727	2732/2547	fCas9 x hCD2		T962919-A05	
+5033	AA0009	t/++	M			fCas9 MT (+/-), hCD2 (+)	12/31/2019	05/07/20	2727	2732/2547	fCas9 x hCD2		T962919-B05	
+5034	AA0010	+/t	F			fCas9 MT (+/-), hCD2 (+)	12/31/2019	Dispensible	2727	2732/2547	fCas9 x hCD2		T962919-C05	
+5035	AA0010	++/t	F			fCas9 MT (+/+), hCD2 (+)	12/31/2019		2727	2732/2547	fCas9 x hCD2		T962919-D05	
+5036	AA0010	t/+	F			fCas9 MT (+/-), hCD2 (-)	12/31/2019	Dispensible	2727	2732/2547	fCas9 x hCD2		T962919-E05	
+5037	AA0011	+/t	F			fCas9 MT (+/-), hCD2 (-)	12/31/2019	05/07/20	2727	2732/2547	fCas9 x hCD2		T962919-F05	
+5038	AA0011	++/t	F			fCas9 MT (+/-), hCD2 (-)	12/31/2019	05/07/20	2727	2732/2547	fCas9 x hCD2		T962919-G05	
+5039	AA0011	t/+	F			fCas9 MT (+/-), hCD2 (-)	12/31/2019	05/07/20	2727	2732/2547	fCas9 x hCD2		T962919-H05	
+5040	AA0012	+/t	M			fCas9 MT (+/-), hCD2 (-)	1/2/2020	05/07/20	2542	2731/2535	fCas9 x hCD2		T962919-A06	
+5041	AA0012	++/t	M			fCas9 MT (+/-), hCD2 (+)	1/2/2020	05/07/20	2542	2731/2535	fCas9 x hCD2		T962919-B06	
+														
+5042	AA0013	+/t	M			4E,7I,4S,NAina	12/30/2019	Reserve-May20	2620	2632	1685ins21#2		T979159-A01	
+5043	AA0013	++/t	M			4E,6I,3S,NAina	12/30/2019	Dispensible	2620	2632	1685ins21#2		T979159-B01	
+5044	AA0013	t/+	M			4E,7I,3S,NAina	12/30/2019	Reserve-May20	2620	2632	1685ins21#2		T979159-C01	
+5045	AA0014	+/t	M			3E,6I,4S,NAina	12/30/2019	dispensible	2620	2632	1685ins21#2		T979159-D01	
+5046	AA0014	++/t	M			4E,6I,4S,NAina	12/30/2019	dispensible	2620	2632	1685ins21#2		T979159-E01	
+5047	AA0014	t/+	M			4E,8I,4S,NAina	12/30/2019	Breeder-May20	2620	2632	1685ins21#2		T979159-F01	
+5048	AA0010	+/t	F	Agouti		3E,7I,2S,NAina	12/30/2019	dispensible	2620	2632	1685ins21#2		T979159-G01	
+5049	AA0010	++/t	F	Agouti		4E,7I,3S,NAina	12/30/2019	Breeder-May20	2620	2632	1685ins21#2		T979159-H01	
+5050	AA0016	+/t	M			3E,7I,3S,NAina	12/31/2019	03/17/20	2463	2625/2633	1685ins21#2		T979159-A02	
+5051	AA0017	+/t	F			2E,8I,3S,NAina	12/31/2019	dispensible	2463	2625/2633	1685ins21#2		T979159-B02	
+5052	AA0017	++/t	F			4E,8I,3S,NAina	12/31/2019	Breeder-May20	2463	2625/2633	1685ins21#2		T979159-C02	
+5053	AA0017	t/+	F			4E,8I,2S,NAina	12/31/2019	Breeder-May20	2463	2625/2633	1685ins21#2		T979159-D02	
+5054	AA0017	t/++	F			3E,7I,2S,NAina	12/31/2019	dispensible	2463	2625/2633	1685ins21#2		T979159-E02	
+5055	AA0017	notch-5	F			3E,7I,2S,NAina	12/31/2019	dispensible	2463	2625/2633	1685ins21#2		T979159-F02	
+5056	AA0018	+/t	M			4E,6I,2S,NAina	12/31/2019	05/07/20	2620	2626	1685ins21#2		T979159-G02	
+5057	AA0018	++/t	M				12/31/2019	05/07/20	2620	2626	1685ins21#2		T979159-H02	
+5058	AA0018	t/+	M			3E,5I,3S,NAina	12/31/2019	05/07/20	2620	2626	1685ins21#2		T979159-A03	
+5059	AA0019	+/t	M			3E,6I,2S,NAina	12/31/2019	dispensible	2620	2626	1685ins21#2		T979159-B03	
+5060	AA0019	++/t	M			4E,7I,2S,NAina	12/31/2019	dispensible	2620	2626	1685ins21#2		T979159-C03	
+5061	AA0019	t/+	M			4E,6I,3S,NAina	12/31/2019	dispensible	2620	2626	1685ins21#2		T979159-D03	
+5062	AA0020	+/t	F			4E,5I,4S,NAina	12/31/2019	dispensible	2620	2626	1685ins21#2		T979159-E03	
+5063	AA0020	++/t	F			4E,6I,4S,NAina	12/31/2019	Breeder-May20	2620	2626	1685ins21#2		T979159-F03	
+5064	AA0020	t/+	F			3E,4I,3S,NAina	12/31/2019	dispensible	2620	2626	1685ins21#2		T979159-G03	
+5065	AA0020	t/++	F			4E,5I,4S,NAina	12/31/2019	dispensible	2620	2626	1685ins21#2		T979159-H03	
+5066	AA0020	notch-5	F			4E,6I,3S,NAina	12/31/2019	dispensible	2620	2626	1685ins21#2		T979159-B04	
+5067	AA0021	+/t	M			4E,7I,3S,NAina	1/3/2020	dispensible	2463	2622	1685ins21#2		T979159-C04	
+5068	AA0021	++/t	M			4E,7I,4S,NAina	1/3/2020	Breeder-May20	2463	2622	1685ins21#2		T979159-D04	
+5069	AA0024	+/t	F			4E,7I,3S,NAina	1/3/2020	Breeder-May20	2463	2622	1685ins21#2		T979159-E04	
+5070	AA0024	++/t	F			4E,7I,1S,NAina	1/3/2020	Breeder-May20	2463	2622	1685ins21#2		T979159-F04	
+													T979159-G04	
+5071	AA0023	+/t	M			4E,8I,15S,14ina	1/5/2020	03/17/20	2750	2650/2652	1763PB#7		T979159-H04	
+5072	AA0024	+/t	F			5E,7I,16S,10ina	1/5/2020	Breeder-May20	2750	2650/2652	1763PB#7		T979159-A05	
+5073	AA0024	++/t	F			4E,8I,12S,11ina	1/5/2020	dispensible	2750	2650/2652	1763PB#7		T979159-B05	
+5074	AA0024	t/+	F			4E,8I,15S,12ina	1/5/2020	dispensible	2750	2650/2652	1763PB#7		T979159-C05	
+														
+5075	AA0025	+/t	F	Agouti		5	01/12/20	Breeder-May20	2438	2741/2743	1853PBF#1		T979199-A01	
+5076	AA0025	++/t	F	Black		5	01/12/20	Breeder-May20	2438	2741/2743	1853PBF#1		T979199-B01	
+5077	AA0025	t/+	F	Black		4	01/12/20	dispensible	2438	2741/2743	1853PBF#1		T979199-C01	
+														
+5078	AA0026	+/t	M	Black			01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-D01	
+5079	AA0026	++/t	M	Black			01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-E01	
+														
+5080	AA0027	t/++	M	Agouti		4E,6I,11S,13ina	01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-F01	
+5081	AA0027	notch-5	M	White		5E,6I,12S,11ina	01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-G01	
+5082	AA0027	t/+	M	White		3E,7I,17S,10ina	01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-H01	
+5083	AA0027	t/++	M	White		3E,3I,13S,14ina	01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-A02	
+5084	AA0028	+/t	M	Agouti		4E,8I,16S,15ina	01/13/20	dispensible	2265	2410/2412	1763PB#7		T979199-B02	
+5085	AA0028	++/t	M	Black			01/13/20	dispensible	2265	2410/2412	1763PB#7		T979199-C02	
+5086	AA0028	t/+	M	Black		5E,7I,11S,11ina	01/13/20	dispensible	2265	2410/2412	1763PB#7		T979199-D02	
+5087	AA0028	t/++	M	Black		5E,4I,9S,13ina	01/13/20	dispensible	2265	2410/2412	1763PB#7		T979199-E02	
+5088	AA0029	+/t	F	Black			01/13/20	dispensible	2265	2410/2412	1763PB#7		T979199-F02	
+5089	AA0029	++/t	F	Black		5E,6I,10S,13ina	01/13/20	dispensible	2265	2410/2412	1763PB#7		T979199-G02	
+5090	AA0029	t/+	F	Black		4E,5I,10S,13ina	01/13/20	dispensible	2265	2410/2412	1763PB#7		T979199-H02	
+5091	AA0030	+/t	F	Black		3E,3I,10S,12ina	01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-A03	
+5092	AA0030	++/t	F	White		4E,6I,18S,9ina	01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-B03	
+5093	AA0030	t/+	F	White		5E,6I,14S,6ina	01/13/20	05/07/20	2265	2410/2412	1763PB#7		T979199-C03	
+														
+5094	AA0031	+/t	M	Agouti		4E,11I,5S,11ina	01/12/20	Breeder-May20	2693	2645/2610	1763PB#3		T979199-D03	
+5095	AA0031	++/t	M	Agouti		4E,9I,4S,8ina	01/12/20	dispensible	2693	2645/2610	1763PB#3		T979199-E03	
+5096	AA0031	t/+	M	Agouti		4E,12I,6S,7ina	01/12/20	Breeder-May20	2693	2645/2610	1763PB#3		T979199-F03	
+5097	AA0031	t/++	M	Agouti		4E,10I,3S,11ina	01/12/20	dispensible	2693	2645/2610	1763PB#3		T979199-G03	
+5098	AA0032	+/t	M	Agouti		4E,10I,6S,11ina	01/12/20	Reserve-May20	2693	2645/2610	1763PB#3		T979199-H03	
+5099	AA0032	++/t	M	Agouti		4E,13I,4S,10ina	01/12/20	Breeder-May20	2693	2645/2610	1763PB#3		T979199-A04	
+5100	AA0032	t/+	M	Agouti		3E,11I,6S,10ina	01/12/20	Reserve-May20	2693	2645/2610	1763PB#3		T979199-B04	
+5101	AA0032	t/++	M	Agouti		4E,12I,3S,12ina	01/12/20	Breeder-May20	2693	2645/2610	1763PB#3		T979199-C04	
+5102	AA0033	+/t	F	Agouti		4E,10I,6S,10ina	01/12/20	Breeder-May20	2693	2645/2610	1763PB#3			
+5103	AA0033	++/t	F	Agouti		4E,12I,3S,11ina	01/12/20	dispensible	2693	2645/2610	1763PB#3		T979199-E04	
+5104	AA0033	t/+	F	Agouti		1E,13I,5S,8ina	01/12/20	dispensible	2693	2645/2610	1763PB#3		T979199-F04	
+														
+5105	AA0034	+/t	F	Agouti		3	01/12/20	05/07/20	2735	2742/2744	1853PBF#1		T1004640-A01	
+5106	AA0034	++/t	F	Agouti		4	01/12/20	05/07/20	2735	2742/2744	1853PBF#1		T1004640-B01	
+5107	AA0034	t/+	F	Agouti		5	01/12/20	Breeder-May20	2735	2742/2744	1853PBF#1		T1004640-C01	
+5108	AA0034	t/++	F	Agouti		4	01/12/20	05/07/20	2735	2742/2744	1853PBF#1		T1004640-D01	
+5109	AA0035	+/t	M	Agouti		3	01/22/20	Dispensible	2734	2448/2740	1853PBF#1		T1004640-E01	
+5110	AA0035	++/t	M	Agouti		3	01/22/20	Dispensible	2734	2448/2740	1853PBF#1		T1004640-F01	
+5111	AA0011	+/t	F	Agouti		4	01/12/20	05/07/20	2734	2448/2740	1853PBF#1		T1004640-G01	
+														
+5112	AA0037	+/t	M	Agouti		4E,7I,17S,11ina	01/22/20	03/17/20	2750	2650/2652	1763PB#7		T1004640-H01	
+5113	AA0029	+/t	F	Agouti		3E,9I,17S,11ina	01/22/20	Breeder-May20	2750	2650/2652	1763PB#7		T1004640-A02	
+5114	AA0029	++/t	F	Agouti		4E,9I,18S,11ina	01/22/20	Breeder-May20	2750	2650/2652	1763PB#7		T1004640-B02	
+														
+5115	AA0038	+/t	M	Black		fCas9 MT (+/+), hCD2 (-)	01/20/20	Dispensible  - collect for gDNA template	2542	2731/2535	fCas9 x hCD2		T1004640-C02	
+5116	AA0038	++/t	M	Black		fCas9 MT (+/+), hCD2 (+)	01/20/20		2542	2731/2535	fCas9 x hCD2		T1004640-D02	
+														
+5117	AA0039	+/t	M	Agouti		4E,5I,3S,NAina	01/30/20	Dispensible	2620	2523/2626	1685ins21#2		T965505-A01	
+5118	AA0039	++/t	M	Agouti		4E,8I,2S,NAina	01/30/20	Breeder-May20	2620	2523/2626	1685ins21#2		T965505-B01	
+5119	AA0040	+/t	F	Agouti		4E,5I,2S,NAina	01/30/20	5/07 - samples collected for gDNA template	2620	2523/2626	1685ins21#2		T965505-C01	
+5120	AA0040	++/t	F	Agouti		4E,7I,2S,NAina	01/30/20	Breeder-May20	2620	2523/2626	1685ins21#2		T965505-D01	
+5121	AA0040	+/t	F	Agouti		4E,7I,4S,NAina	01/31/20	Breeder-May20	2620	2632	1685ins21#2		T965505-E01	
+5122	AA0041	++/t	F	Agouti			01/31/20	5/07 - samples collected for gDNA template	2620	2632	1685ins21#2		T965505-F01	
+5123	AA0041	t/+	F	Agouti		2E,8I,4S,NAina	01/31/20	5/07 - samples collected for gDNA template	2620	2632	1685ins21#2		T965505-G01	
+5124	AA0041	t/++	F	Agouti		2E,7I,4S,NAina	01/31/20	5/07 - samples collected for gDNA template	2620	2632	1685ins21#2		T965505-H01	
+5125	AA0042	+/t	M	Agouti		4E,5I,4S,NAina	01/31/20	05/07/20	2620	2632	1685ins21#2		T965505-A02	
+5126	AA0042	++/t	M	Agouti		4E,6I,3S,NAina	01/31/20	05/07/20	2620	2632	1685ins21#2		T965505-B02	
+5127	AA0042	t/+	M	Agouti		3E,6I,3S,NAina	01/31/20	05/07/20	2620	2632	1685ins21#2		T965505-C02	
+5128	AA0043	+/t	M	Agouti		3E,7I,4S,NAina	01/31/20	Dispensible	2620	2632	1685ins21#2		T965505-D02	
+5129	AA0043	++/t	M	Agouti		2E,6I,3S,NAina	01/31/20	Dispensible	2620	2632	1685ins21#2		T965505-E02	
+5130	AA0043	t/+	M	Agouti		4E,7I,4S,NAina	01/31/20	Breeder-May20	2620	2632	1685ins21#2		T965505-F02	
+5131	AA0044	+/t	M	Agouti		3E,7I,4S,NAina	01/31/20	03/17/20	2463	2625/2633	1685ins21#2		T965505-G02	
+5132	AA0059	+/t	F	Agouti		3E,7I,2S,NAina	01/31/20	Dispensible	2463	2625/2633	1685ins21#2		T965505-H02	
+														
+5133	AA0046	+/t	M	Agouti			01/27/20	Dispensible	2751	2418/2421	1763PB#7		T965505-A03	
+5134	AA0046	++/t	M	Agouti		5E,7I,13S,7ina	01/27/20	Breeder-May20	2751	2418/2421	1763PB#7		T965505-B03	
+5135	AA0046	t/+	M	Agouti		5E,6I,17S,8ina	01/27/20	Reserve-May20	2751	2418/2421	1763PB#7		T965505-C03	
+5136	AA0046	t/++	M	Agouti		4E,7I,17S,17ina	01/27/20	Reserve-May20	2751	2418/2421	1763PB#7		T965505-D03	
+5137	AA0047	+/t	F	Agouti		4E,8I,17S,14ina	01/27/20	Breeder-May20	2751	2418/2421	1763PB#7		T965505-E03	
+5138	AA0047	++/t	F	Agouti			01/27/20	Dispensible	2751	2418/2421	1763PB#7		T965505-F03	
+5139	AA0047	t/+	F	Agouti		5E,5I,16S,9ina	01/27/20	Breeder-May20	2751	2418/2421	1763PB#7		T965505-G03	
+5140	AA0048	+/t	F	Black			01/27/20	05/07/20	2751	2418/2421	1763PB#7		T965505-A04	
+5141	AA0048	++/t	F	Black		4E,7I,13S,14ina	01/27/20	05/07/20	2751	2418/2421	1763PB#7		T965505-B04	
+5142	AA0048	t/+	F	Black			01/27/20	05/07/20	2751	2418/2421	1763PB#7		T965505-C04	
+														
+5143	AA0049	+/t	M	Black			02/03/20	Dispensible	2694	2639/2613	1763PB#3		T965505-D04	
+5144	AA0049	++/t	M	Agouti		3E,13I,5S,10ina	02/03/20	Dispensible	2694	2639/2613	1763PB#3		T965505-E04	
+5145	AA0049	t/+	M	Agouti			02/03/20	Dispensible	2694	2639/2613	1763PB#3		T965505-F04	
+5146	AA0050	+/t	F	Black		1E,11I,5S,9ina	02/03/20	Breeder-May20	2694	2639/2613	1763PB#3		T965505-G04	
+5147	AA0050	++/t	F	Agouti		3E,14I,6S,8ina	02/03/20	Breeder-May20	2694	2639/2613	1763PB#3		T965505-H04	
+5148	AA0050	t/+	F	Agouti		3E,11I,7S,14ina	02/03/20	Breeder-May20	2694	2639/2613	1763PB#3		T965505-A05	
+5149	AA0050	t/++	F	Agouti		2E,13I,6S,13ina	02/03/20	Dispensible	2694	2639/2613	1763PB#3		T965505-B05	
+5150	AA0050	notch-5	F	Agouti		4E,13I,6S,13ina	02/03/20	Breeder-May20	2694	2639/2613	1763PB#3		T965505-C05	
+5151	AA0051	+/t	F	White		2E,13I,6S,9ina	02/04/20	05/07/20	2693	2645/2610	1763PB#3		T965505-D05	
+5152	AA0051	++/t	F	White		3E,13I,5S,9ina	02/04/20	Breeder-May20	2693	2645/2610	1763PB#3		T965505-E05	
+5153	AA0051	t/+	F	Agouti		3E,13I,6S,10ina	02/04/20	Breeder-May20	2693	2645/2610	1763PB#3		T965505-F05	
+5154	AA0051	t/++	F	Agouti		4E,11I,6S,7ina	02/04/20	Breeder-May20	2693	2645/2610	1763PB#3		T965505-G05	
+5155	AA0051	notch-5	F	Agouti		4E,12I,6S,10ina	02/04/20	05/07/20	2693	2645/2610	1763PB#3		T965505-H05	
+5156	AA0052	+/t	M	Agouti		4E,12I,5S,9ina	02/04/20	Breeder-May20	2693	2645/2610	1763PB#3		T965505-A06	
+5157	AA0052	++/t	M	Agouti		4E,13I,6S,12ina	02/04/20	Breeder-May20	2693	2645/2610	1763PB#3		T965505-B06	
+5158	AA0052	t/+	M	Agouti			02/04/20	Dispensible	2693	2645/2610	1763PB#3		T965505-C06	
+5159	AA0052	t/++	M			3E,12I,6S,9ina	02/04/20	Dispensible	2693	2645/2610	1763PB#3		T965505-D06	
+5160	AA0053	+/t	M	Agouti		3E,12I,5S,9ina	02/04/20	Dispensible	2693	2645/2610	1763PB#3		T965505-E06	
+5161	AA0053	++/t	M	Agouti		4E,9I,5S,11ina	02/04/20	Dispensible	2693	2645/2610	1763PB#3		T965505-F06	
+5162	AA0053	t/+	M	Agouti		2E,10I,6S,7ina	02/04/20	Dispensible	2693	2645/2610	1763PB#3		T965505-G06	
+5163	AA0053	t/++	M	White		4E,12I,6S,10ina	02/04/20	Breeder-May20	2693	2645/2610	1763PB#3		T965505-H06	
+														
+5164	AA0054	+/t	M	Agouti		5	01/31/20	5/07 - samples collected for gDNA template	2438	2741/2743	1853PBF#1		T965505-B07	
+5165	AA0054	++/t	M	Agouti			01/31/20	5/07 - samples collected for gDNA template	2438	2741/2743	1853PBF#1		T965505-C07	
+5166	AA0054	t/+	M	Black			01/31/20	5/07 - samples collected for gDNA template	2438	2741/2743	1853PBF#1		T965505-D07	
+5167	AA0055	+/t	F	Agouti		3	01/31/20	Dispensible	2438	2741/2743	1853PBF#1		T965505-E07	
+5168	AA0055	++/t	F	Agouti		5	01/31/20	Breeder-May20	2438	2741/2743	1853PBF#1		T965505-F07	
+5169	AA0055	t/+	F	Agouti		3	01/31/20	Dispensible	2438	2741/2743	1853PBF#1		T965505-G07	
+5170	AA0055	t/++	F	Agouti		4	01/31/20	Dispensible	2438	2741/2743	1853PBF#1		T965505-H07	
+5171	AA0056	+/t	M	Black		fCas9 MT (+/+), synCre (+)	01/28/20	dispensible	2728	2713	fCas9 x synCre		T965505-A08	
+5172	AA0056	++/t	M	Black		fCas9 MT (+/+), synCre (-)	01/28/20	Dispensible	2728	2713	fCas9 x synCre		T965505-B08	
+5173	AA0056	t/+	M	Black		fCas9 MT (+/+), synCre (+)	01/28/20	dispensible	2728	2713	fCas9 x synCre		T965505-C08	
+5174	AA0056	t/++	M	Black		fCas9 MT (+/-), synCre (-)	01/28/20	dispensible	2728	2713	fCas9 x synCre		T965505-D08	
+5175	AA0057	+/t	F	Black		fCas9 MT (+/+), synCre (-)	01/28/20	Dispensible	2728	2713	fCas9 x synCre		T965505-E08	
+5176	AA0057	++/t	F	Black		fCas9 MT (+/+), synCre (-)	01/28/20	Dispensible	2728	2713	fCas9 x synCre		T965505-F08	
+5177	AA0058	t/+	M	Black		fCas9 MT (+/-), hCD2 (-)	01/31/20	Dispensible	2542	2731/2535/2731	fCas9 x hCD2		T965505-G08	
+5178	AA0058	t/++	M	Black		fCas9 MT (+/+), hCD2 (+)	01/31/20	breeder (experimental)	2542	2731/2535/2731	fCas9 x hCD2		T965505-H08	
+5179	AA0058	notch-5	M	Black		fCas9 MT (+/+), hCD2 (-)	01/31/20		2542	2731/2535/2731	fCas9 x hCD2		T965505-A09	
+5180	AA0059	+/t	F	Black		fCas9 MT (+/+), hCD2 (-)	01/31/20		2542	2731/2535/2731	fCas9 x hCD2		T965505-B09	
+5181	AA0059	++/t	F	Black		fCas9 MT (+/+), hCD2 (+)	01/31/20		2542	2731/2535/2731	fCas9 x hCD2		T965505-C09	
+5182	AA0059	t/+	F	Black		fCas9 MT (+/+), hCD2 (+)	01/31/20	05/07/20	2542	2731/2535/2731	fCas9 x hCD2		T965505-D09	
+														
+5183	AA0060	+/t	M	Agouti		5	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A01	recollected 200420, original plate loc: T965523-A01
+5184	AA0060	++/t	M	Black		4	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A02	200420: recollected, original plate loc T965523-B01
+5185	AA0060	t/+	M	Black		3	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A03	200420: recollected, original plate loc T965523-C01
+5186	AA0061	+/t	M	Agouti		4	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A04	200420: recollected, original plate loc T965523-D01
+5187	AA0061	++/t	M	Agouti		5	02/18/20	Reserve-May20	2438	2741/2743	1853PBF#1		T965524-A05	200420: recollected, original plate loc T965523-E01
+5188	AA0061	t/+	M	Agouti		5	02/18/20	Breeder-May20	2438	2741/2743	1853PBF#1		T965524-A06	200420: recollected, original plate loc T965523-F01
+5189	AA0062	+/t	F	Agouti		4	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A07	200420: recollected, original plate loc T965523-G01
+5190	AA0062	++/t	F	Agouti		5	02/18/20	Breeder-May20	2438	2741/2743	1853PBF#1		T965524-A08	200420: recollected, original plate loc T965523-H1
+5191	AA0062	t/+	F	Black		5	02/18/20	Breeder-May20	2438	2741/2743	1853PBF#1		T965524-A09	200420: recollected, original plate loc T965523-A02
+5192	AA0063	+/t	F	Agouti		4	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A10	200420: recollected, original plate loc T965523-B02
+5193	AA0063	++/t	F	Agouti		4	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A11	200420: recollected, original plate loc T965523-C02
+5194	AA0063	t/+	F	Agouti		4	02/18/20	Dispensible	2438	2741/2743	1853PBF#1		T965524-A12	200420: recollected, original plate loc T965523-D02
+5195	AA0064	+/t	F	Agouti		4E,8I,14S,13ina	02/09/20	Dispensible	2401	2417/2415	1763PB#7		T965524-D01	200420: recollected, original plate loc T965523-E02
+5196	AA0064	++/t	F	Agouti		4E,8I,21S,10ina	02/09/20	Breeder-May20	2401	2417/2415	1763PB#7		T965524-D02	200420: recollected, original plate loc T965523-F02
+5197	AA0064	t/+	F	Agouti		3E,8I,17S,14ina	02/09/20	Dispensible	2401	2417/2415	1763PB#7		T965524-D03	200420: recollected, original plate loc T965523-G02
+5198	AA0065	+/t	M	Black		fCas9 MT (+/+), hCD2 (-)	02/12/20		2727	2732/2547	fCas9 x hCD2		T965524-G01	200420: recollected, original plate loc T965523-H2
+5199*	AA0066	+/t	F	Black		fCas9 MT (+/-), hCD2 (+)	02/12/20	Dispensible	2727	2732/2547	fCas9 x hCD2		T965524-G02	200420: recollected, original plate loc T965523-A03
+5200	AA0066	++/t	F	Black		fCas9 MT (+/+), hCD2 (-)	02/12/20	Dispensible	2727	2732/2547	fCas9 x hCD2		T965524-G03	200420: recollected, original plate loc T965523-B03
+5201	AA0066	t/+	F	Black		fCas9 MT (+/+), hCD2 (+)	02/12/20		2727	2732/2547	fCas9 x hCD2		T965524-G04	200420: recollected, original plate loc T965523-C03
+5202	AA0067	+/t	F	Black		fCas9 MT (+/+), hCD2 (-)	02/12/20	5/07 - samples collected for gDNA template	2727	2732/2547	fCas9 x hCD2		T965524-G05	200420: recollected, original plate loc T965523-D03
+5203	AA0067	++/t	F	Black		fCas9 MT (+/-), hCD2 (+)	02/12/20	5/07 - samples collected for gDNA template	2727	2732/2547	fCas9 x hCD2		T965524-G06	200420: recollected, original plate loc T965523-E03
+5204	AA0067	t/+	F	Black		fCas9 MT (+/+), hCD2 (-)	02/12/20	5/07 - samples collected for gDNA template	2727	2732/2547	fCas9 x hCD2		T965524-G07	200420: recollected, original plate loc T965523-F03
+5205	AA0068	+/t	M	Agouti		5	02/15/20	Breeder-May20	2437	2448/2740	1853PBF#1		T965524-B02	200420: recollected, original plate loc T965523-G03
+5206	AA0068	++/t	M	Agouti		4	02/15/20	Dispensible	2437	2448/2740	1853PBF#1		T965524-B03	200420: recollected, original plate loc T965523-A04
+5207	AA0068	t/+	M	Agouti		5	02/15/20	Breeder-May20	2437	2448/2740	1853PBF#1		T965524-B04	200420: recollected, original plate loc T965523-B04
+5208	AA0069	+/t	F	Agouti		4	02/15/20	Dispensible	2437	2448/2740	1853PBF#1		T965524-B05	200420: recollected, original plate loc T965523-C04
+5209	AA0069	++/t	F	Agouti		4	02/15/20	Dispensible	2437	2448/2740	1853PBF#1		T965524-B06	200420: recollected, original plate loc T965523-D04
+5210	AA0069	t/+	F	Agouti		4	02/15/20	Dispensible	2437	2448/2740	1853PBF#1		T965524-B07	200420: recollected, original plate loc T965523-E04
+5211	AA0069	t/++	F	Agouti		4	02/15/20	Dispensible	2437	2448/2740	1853PBF#1		T965524-B08	200420: recollected, original plate loc T965523-F04
+5212	AA0070	+/t	F	Agouti		5	02/15/20	Reserve-May20	2437	2448/2740	1853PBF#1		T965524-B09	200420: recollected, original plate loc T965523-G04
+5213	AA0070	++/t	F	Agouti		4	02/15/20	Reserve-May20	2437	2448/2740	1853PBF#1		T965524-B10	200420: recollected, original plate loc T965523-H4
+5214	AA0070	t/+	F	Agouti		2	02/15/20	Dispensible	2437	2448/2740	1853PBF#1		T965524-B11	200420: recollected, original plate loc T965523-A05
+5215	AA0070	t/++	F	Agouti		4	02/15/20	Dispensible	2437	2448/2740	1853PBF#1		T965524-B12	200420: recollected, original plate loc T965523-B05
+5216	AA0071	+/t	M	Black		fCas9 MT (+/+), synCre (-)	02/27/20	dispensible  - collect for gDNA	2728	2713	fCas9 x synCre		T965524-G09	200420: recollected, original plate loc T965523-C05
+5217	AA0071	++/t	M	Black		fCas9 MT (+/+), synCre (+)	02/27/20	Dispensible	2728	2713	fCas9 x synCre		T965524-G10	200420: recollected, original plate loc T965523-D05
+5218	AA0071	t/+	M	Black		fCas9 MT (+/+), synCre (+)	02/27/20	Dispensible	2728	2713	fCas9 x synCre		T965524-G11	200420: recollected, original plate loc T965523-E05
+5219	AA0071	t/++	M	Black		fCas9 MT (+/+), synCre (-)	02/27/20		2728	2713	fCas9 x synCre		T965524-G12	200420: recollected, original plate loc T965523-F05
+5220	AA0072	+/t	F	Black			02/27/20		2728	2713	fCas9 x synCre		T965524-H01	200420: recollected, original plate loc T965523-G05
+5221	AA0072	++/t	F	Black		fCas9 MT (+/+), synCre (-)	02/27/20	Dispensible	2728	2713	fCas9 x synCre		T965524-H02	200420: recollected, original plate loc T965523-H5
+5222	AA0073	+/t	M	Black		fCas9 MT (+/+), hCD2 (+)	02/21/20		2727	2732/2547	fCas9 x hCD2		T965524-H03	200420: recollected, original plate loc T965523-A06
+5223	AA0073	++/t	M	Black		fCas9 MT (+/-), hCD2 (-)	02/21/20	Dispensible	2727	2732/2547	fCas9 x hCD2		T965524-H04	200420: recollected, original plate loc T965523-B06
+5224	AA0073	t/+	M	Black			02/21/20	2020/04/06 - f.d.	2727	2732/2547	fCas9 x hCD2			original plate loc T965523-C0
+5225	AA0073	t/++	M	Black		fCas9 MT (+/-), hCD2 (-)	02/21/20	Dispensible	2727	2732/2547	fCas9 x hCD2		T965524-H06	200420: recollected, original plate loc T965523-D06
+5226*	AA0074	+/t	F	Black		fCas9 MT (+/-), hCD2 (-)	02/21/20	Dispensible	2727	2732/2547	fCas9 x hCD2		T965524-H07	200420: recollected, original plate loc T965523-E06
+5227	AA0074	++/t	F	Black		fCas9 MT (+/+), hCD2 (+)	02/21/20		2727	2732/2547	fCas9 x hCD2		T965524-H08	200420: recollected, original plate loc T965523-F06
+5228	AA0074	t/+	F	Black		fCas9 MT (+/-), hCD2 (+)	02/21/20	Dispensible	2727	2732/2547	fCas9 x hCD2		T965524-H09	200420: recollected, original plate loc T965523-G06
+														
+5229*	AA0074	t/++	F	Black		fCas9 MT (+/+), hCD2 (+)	02/21/20		2727	2732/2547	fCas9 x hCD2		T965524-H10	200420: recollected, original plate loc T965523-A07
+														
+5230	AA0075	+/t	M	Agouti		4E,11I,6S,7ina	02/28/20	Breeder-May20	2693	2645/2610	1763PB#3		T965524-D05	200420: recollected, original plate loc T965523-B07
+5231	AA0075	++/t	M	White		3E,12I,4S,9ina	02/28/20	dispensible	2693	2645/2610	1763PB#3		T965524-D06	200420: recollected, original plate loc T965523-C07
+5232	AA0076	+/t	F	Agouti		1E,11I,6S,8ina	02/28/20	dispensible	2693	2645/2610	1763PB#3		T965524-D07	200420: recollected, original plate loc T965523-D07
+5233	AA0076	++/t	F	Agouti		4E,10I,4S,8ina	02/28/20	Breeder-May20	2693	2645/2610	1763PB#3		T965524-D08	200420: recollected, original plate loc T965523-E07
+5234	AA0076	t/+	F	Agouti		4E,11I,5S,10ina	02/28/20	dispensible	2693	2645/2610	1763PB#3		T965524-D09	200420: recollected, original plate loc T965523-F07
+5235	AA0076	t/++	F	Agouti		3E,10I,6S,9ina	02/28/20	Breeder-May20	2693	2645/2610	1763PB#3		T965524-D10	200420: recollected, original plate loc T965523-G07
+5236*	AA0077	+/t	F	Agouti		4E,11I,6S,9ina	02/28/20	Breeder-May20	2693	2645/2610	1763PB#3		T965524-D11	200420: recollected, original plate loc T965523-H7
+5237	AA0077	++/t	F	Agouti		2E,11I,6S,7ina	02/28/20	dispensible	2693	2645/2610	1763PB#3		T965524-D12	200420: recollected, original plate loc T965523-A08
+5238	AA0077	t/+	F	Agouti		4E,13I,7S,7ina	02/28/20	Breeder-May20	2693	2645/2610	1763PB#3		T965524-E01	200420: recollected, original plate loc T965523-B08
+														
+5239	AA0078	+/t	M	Agouti		5E,6I,18S,14ina	02/05/20	Breeder-May20	2265	2410/2412	1763PB#7		T965524-E02	200420: recollected, original plate loc T965523-C08
+5240	AA0078	++/t	M	White		5E,6I,13S,7ina	02/05/20	dispensible	2265	2410/2412	1763PB#7		T965524-E03	200420: recollected, original plate loc T965523-D08
+5241	AA0078	t/+	M	Black		5E,6I,16S,11ina	02/05/20	dispensible	2265	2410/2412	1763PB#7		T965524-E04	200420: recollected, original plate loc T965523-E08
+5242	AA0079	+/t	F	Black		5E,8I,13S,12ina	02/05/20	Breeder-May20	2265	2410/2412	1763PB#7		T965524-E05	200420: recollected, original plate loc T965523-F08
+5243	AA0079	++/t	F	Black		5E,3I,14S,14ina	02/05/20	dispensible	2265	2410/2412	1763PB#7		T965524-E06	200420: recollected, original plate loc T965523-G08
+5244	AA0080	+/t	F	Agouti		5E,7I,13S,9ina	02/05/20	Breeder-May20	2265	2410/2412	1763PB#7		T965524-E10	200420: recollected, original plate loc T965523-H8
+5245	AA0080	++/t	F	Agouti		4E,7I,15S,10ina	02/05/20	Breeder-May20	2265	2410/2412	1763PB#7		T965524-E11	200420: recollected, original plate loc T965523-A09
+5246	AA0080	t/+	F	Agouti		5E,5I,17S,10ina	02/05/20	5/07 - samples collected for gDNA template	2265	2410/2412	1763PB#7		T965524-E12	200420: recollected, original plate loc T965523-B09
+5247	AA0080	t/++	F	Black		5E,6I,14S,13ina	02/05/20	5/07 - samples collected for gDNA template	2265	2410/2412	1763PB#7		T965524-F01	200420: recollected, original plate loc T965523-C09
+5248	AA0080	notch-5	F	White		4E,6I,10S,14ina	02/05/20	5/07 - samples collected for gDNA template	2265	2410/2412	1763PB#7		T965524-F02	200420: recollected, original plate loc T965523-D09
+5249	AA0081	+/t	M	Agouti		3E,7I,15S,11ina	02/11/20	dispensible	2750	2650/2652	1763PB#7		T965524-F03	200420: recollected, original plate loc T965523-E09
+5250*	AA0081	++/t	M	Agouti		3E,7I,12S,12ina	02/11/20	dispensible	2750	2650/2652	1763PB#7		T965524-F04	200420: recollected, original plate loc T965523-F09
+5251	AA0081	t/+	M	Black		4E,8I,15S,13ina	02/11/20	dispensible	2750	2650/2652	1763PB#7		T965524-F05	200420: recollected, original plate loc T965523-G09
+5252	AA0081	t/++	M	Black		4E,9I,16S,11ina	02/11/20	Breeder-May20	2750	2650/2652	1763PB#7		T965524-F06	200420: recollected, original plate loc T965523-A10
+5253	AA0082	+/t	F	Agouti		4E,7I,13S,13ina	02/11/20	Breeder-May20	2750	2650/2652	1763PB#7		T965524-F07	200420: recollected, original plate loc T965523-B10
+5254	AA0082	++/t	F	Black		5E,6I,17S,12ina	02/11/20	Breeder-May20	2750	2650/2652	1763PB#7		T965524-F08	200420: recollected, original plate loc T965523-C10
+5255	AA0082	t/+	F	Black		4E,7I,8S,10ina	02/11/20	5/07 - samples collected for gDNA template	2750	2650/2652	1763PB#7		T965524-F09	200420: recollected, original plate loc T965523-D10
+														
+5256	AA0083	+/t	M	Agouti		4E,12I,7S,8ina	02/14/20	Breeder-May20	2693	2645/2610	1763PB#3		T965524-F10	200420: recollected, original plate loc T965523-E10
+5257*	AA0083	++/t	M	Agouti		3E,11I,7S,9ina	02/14/20		2693	2645/2610	1763PB#3		T965524-F11	200420: recollected, original plate loc T965523-F10
+														
+5298	AA0079	+/t	F	Albino		5E,5I,13S,11ina	04/01/20	dispensible	2265	5242/5243	1763PB#7		T965524-E07	200420: presumed progeny from late separation of mothers from their sire
+5299	AA0079	t/+	F	Albino		4E,6I,13S,9ina	04/01/20	dispensible	2265	5242/5243	1763PB#7		T965524-E08	200420: presumed progeny from late separation of mothers from their sire
+														
+5258	AA0084	+/t	M	Black			03/24/20		2728	2713	fCas9 x synCre		T965522-A01	
+5259	AA0085	+/t	F	Black			03/16/20	Breeding	2549	2663	Cas9		T965522-B01	
+5260	AA0086	+/t	M	Black			03/16/20	Breeding	2549	2663	Cas9		T965522-C01	
+5261	AA0087	++/t	M	Black			03/12/20		2542	2535	fCas9 x hCD2		T965522-D01	
+5262	AA0087	t/+	M	Black			03/12/20		2542	2535	fCas9 x hCD2		T965522-E01	
+5263	AA0088	+/t	F	Black			03/12/20		2542	2535	fCas9 x hCD2		T965522-F01	
+5264	AA0088	++/t	F	Black			03/12/20		2542	2535	fCas9 x hCD2		T965522-G01	
+5265	AA0088	t/+	F	Black			03/12/20		2542	2535	fCas9 x hCD2		T965522-H01	
+5266	AA0088	t/++	F	Black			03/12/20		2542	2535	fCas9 x hCD2		T965522-A02	
+5267	AA0088	notch-5	F	Black			03/12/20		2542	2535	fCas9 x hCD2		T965522-B02	
+														
+5268	AA0089	+/t	M	Black		3E,7I,16S,14ina	03/06/20	dispensible	2750	2650/2652	1763PB#7		T965522-C02	
+5269	AA0089	++/t	M	Black		3E,5I,14S,11ina	03/06/20	dispensible	2750	2650/2652	1763PB#7		T965522-D02	
+5270	AA0089	t/+	M	Agouti		5E,8I,15S,12ina	03/06/20	Breeder-May20	2750	2650/2652	1763PB#7		T965522-E02	
+5271	AA0089	t/++	M	Agouti		4E,7I,13S,13ina	03/06/20	dispensible	2750	2650/2652	1763PB#7		T965522-F02	
+5272	AA0090	+/t	F	Black		3E,8I,14S,11ina	03/06/20	dispensible	2750	2650/2652	1763PB#7		T965522-G02	
+5273	AA0090	++/t	F	Agouti		5E,9I,20S,13ina	03/06/20	Breeder-May20	2750	2650/2652	1763PB#7		T965522-H02	
+5274	AA0091	+/t	M	Agouti			03/04/20	05/07/20	2751	2418/2421	1763PB#7		T965522-A03	
+5275	AA0091	++/t	M	Agouti		4E,7I,18S,12ina	03/04/20	05/07/20	2751	2418/2421	1763PB#7		T965522-B03	
+5276	AA0091	t/+	M	Agouti		5E,7I,11S,15ina	03/04/20	05/07/20	2751	2418/2421	1763PB#7		T965522-C03	
+5277	AA0091	t/++	M	Black		5E,6I,14S,16ina	03/04/20	05/07/20	2751	2418/2421	1763PB#7		T965522-D03	
+5278	AA0092	+/t	F	Black		5E,7I,12S,12ina	03/04/20	Breeder-May20	2751	2418/2421	1763PB#7		T965522-E03	
+5279	AA0092	++/t	F	Agouti		5E,9I,13S,16ina	03/04/20	Breeder-May20	2751	2418/2421	1763PB#7		T965522-F03	
+5280	AA0092	t/+	F	Agouti		5E,5I,16S,11ina	03/04/20	Breeder-May20	2751	2418/2421	1763PB#7		T965522-G03	
+5281	AA0093	+/t	F	Black		5E,4I,11S,14ina	03/04/20	05/07/20	2751	2418/2421	1763PB#7		T965522-A04	
+5282	AA0093	++/t	F	Black		5E,6I,16S,15ina	03/04/20	05/07/20	2751	2418/2421	1763PB#7		T965522-B04	
+5283	AA0080	t/+	F	Black		5E,7I,13S,15ina	03/04/20	Breeder-May20	2751	2418/2421	1763PB#7		T965522-C04	
+5284	AA0094	+/t	M	Black		4E,7I,13S,10ina	02/29/20	dispensible	2265	2410/2412	1763PB#7		T965522-D04	
+5285	AA0094	++/t	M	Black		5E,6I,9S,5ina	02/29/20	dispensible	2265	2410/2412	1763PB#7		T965522-E04	
+5286	AA0094	t/+	M	White		4E,6I,14S,11ina	02/29/20	dispensible	2265	2410/2412	1763PB#7		T965522-F04	
+5287	AA0094	t/++	M	Agouti		4E,8I,13S,8ina	02/29/20	dispensible	2265	2410/2412	1763PB#7		T965522-G04	
+5288	AA0095	+/t	F	White		4E,7I,14S,11ina	02/29/20	05/07/20	2265	2410/2412	1763PB#7		T965522-H04	
+5289	AA0095	++/t	F	White			02/29/20	05/07/20	2265	2410/2412	1763PB#7		T965522-A05	
+5290	AA0095	t/+	F	Agouti		4E,8I,14S,11ina	02/29/20	05/07/20	2265	2410/2412	1763PB#7		T965522-B05	
+5291	AA0096	+/t	F	Black		5E,8I,11S,6ina	02/29/20	Breeder-May20	2265	2410/2412	1763PB#7		T965522-C05	
+5292	AA0096	++/t	F	Black		4E,8I,8S,7ina	02/29/20	dispensible	2265	2410/2412	1763PB#7		T965522-D05	
+5293	AA0096	t/+	F	Agouti		4E,8I,15S,12ina	02/29/20	dispensible	2265	2410/2412	1763PB#7		T965522-E05	
+														
+5294	AA0097	+/t	M	Black		1E,12I,3S,8ina	03/13/20	05/07/20	2694	2613/2639	1763PB#3		T965522-F05	
+5295	AA0097	++/t	M	Black		3E,12I,4S,9ina	03/13/20	05/07/20	2694	2613/2639	1763PB#3		T965522-G05	
+5296	AA0097	t/+	M	Black		3E,11I,6S,11ina	03/13/20	05/07/20	2694	2613/2639	1763PB#3		T965522-H05	
+5297	AA0098	+/t	F	Black			03/13/20	5/07 - samples collected for gDNA template	2694	2613/2639	1763PB#3		T965522-A06	
