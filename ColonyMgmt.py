@@ -86,6 +86,7 @@ def cleanDOBs(s):
 def parseDOD(df, drop = True):
     df['DOD'] =  df.DOD.apply(lambda row: row.strip().lower() if type(row)== str else np.nan)
     df['parsedDOD'] = pd.to_datetime(df.DOD, errors = 'coerce')
+    df['DOD'] = df['DOD'].fillna("-")
     if drop:
         init = colonyStats(df)
         df = df[(~df.parsedDOD.notnull()) & (~df.DOD.str.contains('sperm|Diss|f.d.|mia.',
