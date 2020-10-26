@@ -21,9 +21,11 @@ import glob
 # loc = os.getcwd() + "\\" + file
 # os.path.getmtime(loc)
 
-# def checkTime(path):
-#     loc = os.getcwd() + "\\" + path
-#     return os.path.getmtime(loc)
+def checkTime(fn):
+    time = os.path.getmtime(fn)
+    ts = dt.utcfromtimestamp(time).strftime('%Y-%m-%d %H:%M:%S')
+    return ts
+
 def is_number(s):
     try:
         float(s)
@@ -40,16 +42,15 @@ def importCleanDF(fn, sep = "\t",
                   dropHeaders = False,
                   convertDOB = True,
                   stats=True):
-    '''skip rangi(0,9) for Harvard mastersheet
-    dropHeaders = True for Harvard Mas"'''
 
     df = pd.read_csv(fn, sep = sep,
                      skiprows = skip,
                      parse_dates = True,
                     dtype=str).dropna(axis = 0, how = 'all')
-    print("Read in CSV",fn) #logging
+    print(f"Read in CSV: {fn}.\nFile was last modified at: {checkTime(fn)}\n") #logging
 
     df['TagClean'] = df.Tag.astype(str).apply(lambda x: is_number(x))
+
     df.Sex = df.Sex.fillna("temp")
     print("Animals without gender given temp. gender") #if animals are not gendered
 
@@ -215,3 +216,64 @@ def makeConsolidations(df, save = True, popBack = False):
             return frames
     except:
         print("error")
+
+def getBreedingList(source_dir, date):
+    '''func to parse a list of breeders in a given source file accoridng to Reza's standard output format for breeders. Provide a source directory and the date in the format "20XX-MM-DD"'''
+    fns = glob.glob(f"{source_dir}/*{date}_cage*")
+    animal_frames = []
+
+    for fn in fns:
+        frame = pd.read_csv(fn, sep="\t")
+        frame['Lineage'], frame['Date'] = fn[10:24].split("-", 1)
+        frame['SourceFn'] = fn
+        animal_frames.append(frame)
+
+    animals = pd.concat(
+        animal_frames,
+        ignore_index=True)  #dont want pandas to try an align row indexes
+
+    animals = animals.applymap(lambda x: x.strip("t") if isinstance(
+        x, str) else x)  #remove t for easier comparison to big frame applys
+
+    tagCols = ['Male', 'Female1',
+               'Female2']  #grab columns with animals for flattening
+
+    tag_frames = []
+    for col in tagCols:
+        frame = pd.concat((animals[i]
+                           for i in [col, 'Lineage', 'Date', 'SourceFn']),
+                          axis=1).rename({col: 'Tag'}, axis=1)
+        tag_frames.append(frame)
+
+    breeders = pd.concat(
+        tag_frames,
+        ignore_index=True)  #dont want pandas to try an align row indexes;
+    return breeders
+
+
+
+## speciality speed code for re-splitting genotypes by hgRNA tyep
+def splitGenotypes(df):
+    '''for splitting genotypes into hgRNA categories and summing to pick breeders when Reza hasn't, or for distribution, or whatever'''
+    split = df['Genotype'].str.split(r'(\w,)', expand=True)
+    split[6] = split[6].str.extract('(\d+)')
+    split = split.rename({
+        0: "E",
+        2: 'I',
+        4: "S",
+        6: 'ina'
+    }, axis=1).drop(columns=[1, 3, 5])
+
+    newcols = []
+    oldcols = []
+    for col in split:
+        colN = str(col) + "_num"
+        split[colN] = pd.to_numeric(split[col], errors='coerce')
+        oldcols.append(col)
+        newcols.append(colN)
+
+    split['summedhgRNAs'] = split[newcols].sum(axis=1)
+    split['summedhgRNAs_active'] = split[newcols[0:3]].sum(axis=1)
+    split = split.drop(oldcols[0:4], axis=1)
+    df = df.merge(split, left_index=True, right_index=True)
+    return df
