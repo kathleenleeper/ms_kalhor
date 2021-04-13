@@ -124,7 +124,7 @@ def colonyStats(df):
 
 def makefn(string):
     '''returns string + formatted date to use as a file name'''
-    return string + str(dt.today().strftime("_%Y-%B-%d")) + ".csv"
+    return dt.today().strftime("%y%m%d-") + string + ".csv"
 
 def tagSearch(string, df, column="Tag"):
     '''from a string, extracts all numbers and then searches for those numbers in a column'''
