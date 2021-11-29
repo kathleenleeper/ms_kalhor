@@ -1,12 +1,13 @@
 # imports
 import pandas as pd
 import numpy as np
-# import seaborn as sns
+import seaborn as sns
 from datetime import datetime as dt
 import logging as log
 import re
 import os
 import glob
+import gspread
 # to do items
 # add logging function; if colony is over 200, prioritize saccing and consolidating cages
 
@@ -111,7 +112,7 @@ def collectAgeRange(df,
                     gender):
     early = pd.to_datetime(on_date) - pd.Timedelta(weeks = oldest_requested_age)
     late = pd.to_datetime(on_date) - pd.Timedelta(weeks = youngest_requested_age)
-    mask = (df['DOB'] >= early)            & (df['DOB'] <= late)            & (df['Lineage'].str.contains(lineage))            & (df['Sex'].str.contains(gender))
+    mask = (df['DOB'] >= early)           & (df['DOB'] <= late)            & (df['Lineage'].str.contains(lineage))            & (df['Sex'].str.contains(gender))
     return early, late, mask
 
 def colonyStats(df):
@@ -186,7 +187,8 @@ def consolidationFrames(df):
         'Tag': 'unique',
         'Color': 'unique',
         'Ear': 'unique',
-        'Lineage': 'unique'
+        'Lineage': 'unique',
+        'DOB_clean': 'unique'
     }).sort_values('DispPercent', ascending=False)
     grp = df[(df.Sex == "F") & (df.DispPercent < 1) &
              (df.DispPercent > 0)].fillna("-")
@@ -219,7 +221,7 @@ def makeConsolidations(df, save = True, popBack = False):
 
 def getBreedingList(source_dir, date):
     '''func to parse a list of breeders in a given source file accoridng to Reza's standard output format for breeders. Provide a source directory and the date in the format "20XX-MM-DD"'''
-    fns = glob.glob(f"{source_dir}/*{date}_cage*")
+    fns = glob.glob(f"{source_dir}/*{date}*/*")
     animal_frames = []
 
     for fn in fns:
